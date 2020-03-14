@@ -1,0 +1,22 @@
+{
+  "name": "omnifood-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "animate.css": "^3.7.2",
+    "aos": "^2.3.4",
+    "html5shiv.min.js": "^3.7.2",
+    "jquery": "^3.4.1",
+    "normalize.css": "^8.0.1",
+    "respond.min.js": "^1.4.2",
+    "selectivizr": "^1.0.3",
+    "waypoints": "^4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Endang Ismaya",
+  "license": "ISC"
+}
